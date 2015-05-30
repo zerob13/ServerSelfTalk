@@ -21,3 +21,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sat May 30 2015 14:51:02 GMT+0800 (CST).
  Anger, fear, aggression; the dark side of the Force are they. Easily they flow, quick to join you in a fight.
+
+ Now is Sat May 30 2015 14:51:13 GMT+0800 (CST).
+ You can either profit by this or be destroyed. It's your choice, but I warn you not to underestimate my power.
