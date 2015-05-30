@@ -15,3 +15,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sat May 30 2015 14:25:11 GMT+0800 (CST).
  Your thoughts betray you father. I feel the good in you. The conflict.
+
+ Now is Sat May 30 2015 14:50:24 GMT+0800 (CST).
+ I haven't gone by the name of Obi-Wan since... oh, before you were born.
