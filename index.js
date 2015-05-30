@@ -32,6 +32,12 @@ gitExecute(['pull', '--rebase'], function(err, stdout, stderr) {
             throw err;
           }
 
+        gitExecute(['push'], function(err, stdout, stderr) {
+          if (err) {
+            throw err;
+          }
+
+        });
         });
       });
     });
