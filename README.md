@@ -12,3 +12,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sat May 30 2015 14:17:49 GMT+0800 (CST).
  I'm Luke Skywalker. I'm here to rescue you.
+
+ Now is Sat May 30 2015 14:25:11 GMT+0800 (CST).
+ Your thoughts betray you father. I feel the good in you. The conflict.
