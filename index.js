@@ -2,7 +2,7 @@ var starwars = require('starwars');
 var fs = require('fs');
 var talk = '\n Now is ' + (new Date()).toString() + '.\n ' + starwars() + '\n';
 var path = require('path');
-var myPath = path.normalize(fs.realpathSync('.'));
+var myPath = path.normalize(__dirname);
 var exec = require('child_process').exec;
 
 function gitExecute(args, callback) {
