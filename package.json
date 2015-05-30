@@ -1,0 +1,25 @@
+{
+  "name": "server-self-talk",
+  "version": "1.0.0",
+  "description": "A fun repo makes my Server self modify readme and push to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerob13/ServerSelfTalk.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "zerob13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerob13/ServerSelfTalk/issues"
+  },
+  "homepage": "https://github.com/zerob13/ServerSelfTalk#readme",
+  "dependencies": {
+    "starwars": "^1.0.0"
+  }
+}
