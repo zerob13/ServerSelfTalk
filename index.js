@@ -6,7 +6,7 @@ var myPath = path.normalize(__dirname);
 var exec = require('child_process').exec;
 
 function gitExecute(args, callback) {
-  var cmd = 'git --git-dir='+path.join(myPath,'.git')+' --work-tree='+myPath+' ';
+  var cmd = 'git --git-dir=' + path.join(myPath, '.git') + ' --work-tree=' + myPath + ' ';
 
   args.forEach(function(item) {
     cmd += item + ' ';
@@ -17,7 +17,7 @@ gitExecute(['pull', '--rebase'], function(err, stdout, stderr) {
   if (err) {
     throw err;
   }
-  fs.open(path.join(__dirname,'README.md'), 'a', 0644, function(e, fd) {
+  fs.open(path.join(__dirname, 'README.md'), 'a', 0644, function(e, fd) {
     if (e) throw e;
     console.log(talk);
     fs.write(fd, talk, function(e) {
@@ -33,12 +33,12 @@ gitExecute(['pull', '--rebase'], function(err, stdout, stderr) {
             throw err;
           }
 
-        gitExecute(['push'], function(err, stdout, stderr) {
-          if (err) {
-            throw err;
-          }
+          gitExecute(['push'], function(err, stdout, stderr) {
+            if (err) {
+              throw err;
+            }
 
-        });
+          });
         });
       });
     });
