@@ -17,7 +17,7 @@ gitExecute(['pull', '--rebase'], function(err, stdout, stderr) {
   if (err) {
     throw err;
   }
-  fs.open('./README.md', 'a', 0644, function(e, fd) {
+  fs.open(path.join(__dirname,'README.md'), 'a', 0644, function(e, fd) {
     if (e) throw e;
     console.log(talk);
     fs.write(fd, talk, function(e) {
