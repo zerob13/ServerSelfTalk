@@ -27,3 +27,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sat May 30 2015 14:52:01 GMT+0800 (CST).
  Anakin, you're breaking my heart! And you're going down a path I cannot follow!
+
+ Now is Sat May 30 2015 14:53:01 GMT+0800 (CST).
+ You look absolutely beautiful. You truly belong here with us among the clouds.
