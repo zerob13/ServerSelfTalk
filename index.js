@@ -6,7 +6,7 @@ var myPath = path.normalize(fs.realpathSync('.'));
 var exec = require('child_process').exec;
 
 function gitExecute(args, callback) {
-  var cmd = 'git --git-dir='+path.join(myPath,'.git')+' --work-tree='+myPath;
+  var cmd = 'git --git-dir='+path.join(myPath,'.git')+' --work-tree='+myPath+' ';
 
   args.forEach(function(item) {
     cmd += item + ' ';
