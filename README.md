@@ -18,3 +18,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sat May 30 2015 14:50:24 GMT+0800 (CST).
  I haven't gone by the name of Obi-Wan since... oh, before you were born.
+
+ Now is Sat May 30 2015 14:51:02 GMT+0800 (CST).
+ Anger, fear, aggression; the dark side of the Force are they. Easily they flow, quick to join you in a fight.
