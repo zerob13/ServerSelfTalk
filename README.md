@@ -36,3 +36,6 @@ A fun repo makes my Server self modify readme and push to github
 
  Now is Sun May 31 2015 20:09:02 GMT+0800 (CST).
  I'm terribly sorry about all this. After all, he's only a Wookiee.
+
+ Now is Mon Jun 01 2015 20:09:01 GMT+0800 (CST).
+ This will be a day long remembered. It has seen the end of Kenobi, and will soon see the end of the rebellion.
