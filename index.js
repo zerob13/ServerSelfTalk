@@ -5,7 +5,7 @@ var path = require('path');
 var myPath = path.normalize(__dirname);
 var exec = require('child_process').exec;
 var te = (new Date()).getMilliseconds();
-var fortune = require('fortune');
+var fortune = require('fortune-teller');
 if (te % 2 == 0) {
   talk = '\n Now is ' + (new Date()).toString() + '.\n ' + fortune.fortune() + '\n';
 
