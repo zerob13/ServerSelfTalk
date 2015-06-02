@@ -4,6 +4,12 @@ var talk = '\n Now is ' + (new Date()).toString() + '.\n ' + starwars() + '\n';
 var path = require('path');
 var myPath = path.normalize(__dirname);
 var exec = require('child_process').exec;
+var te = (new Date()).getMilliseconds();
+var fortune = require('fortune');
+if (te % 2 == 0) {
+  talk = '\n Now is ' + (new Date()).toString() + '.\n ' + fortune.fortune() + '\n';
+
+}
 
 function gitExecute(args, callback) {
   var cmd = 'git --git-dir=' + path.join(myPath, '.git') + ' --work-tree=' + myPath + ' ';

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zerob13/ServerSelfTalk#readme",
   "dependencies": {
-    "starwars": "^1.0.0"
+    "starwars": "^1.0.0",
+    "fortune-teller":"~0.1.2"
   }
 }
