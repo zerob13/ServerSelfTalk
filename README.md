@@ -43,3 +43,9 @@ A fun repo makes my Server self modify readme and push to github
  Now is Tue Jun 02 2015 14:19:29 GMT+0800 (CST).
  Why be difficult when, with a bit of effort, you could be impossible?
 
+
+ Now is Tue Jun 02 2015 14:21:22 GMT+0800 (CST).
+ Comparing information and knowledge is like asking whether the fatness of a
+pig is more or less green than the designated hitter rule."
+-- David Guaspari
+
