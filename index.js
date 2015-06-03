@@ -34,7 +34,7 @@ gitExecute(['pull', '--rebase'], function(err, stdout, stderr) {
           throw err;
         }
 
-        gitExecute(['commit', '-m', '"' + fortune.fortune() + '"'], function(err, stdout, stderr) {
+        gitExecute(['commit', '-m', '"' + starwars() + '"'], function(err, stdout, stderr) {
           if (err) {
             throw err;
           }
