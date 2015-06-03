@@ -15,3 +15,8 @@ Wed Jun 03 2015 08:26:59 GMT+0800 (CST).
  design, v.:
 	What you regret not doing later on.
 
+
+Wed Jun 03 2015 08:28:24 GMT+0800 (CST).
+ When I was in college, there were a lot of four-letter words you couldn't
+say in front of girls.  Now you can say them.  But you can't say "girls".
+
