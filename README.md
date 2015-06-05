@@ -24,3 +24,6 @@ say in front of girls.  Now you can say them.  But you can't say "girls".
 Thu Jun 04 2015 08:26:02 GMT+0800 (CST).
  Without ice cream life and fame are meaningless.
 
+
+Fri Jun 05 2015 08:26:02 GMT+0800 (CST).
+ You will find that many of the truths we cling to depend greatly on our own point of view.
