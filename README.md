@@ -30,3 +30,6 @@ Fri Jun 05 2015 08:26:02 GMT+0800 (CST).
 
 Sat Jun 06 2015 08:26:01 GMT+0800 (CST).
  He was meant to root out the Rebels, not give them hope. His sacrifice will only inspire them...
+
+Sun Jun 07 2015 08:26:01 GMT+0800 (CST).
+ The drums of conflict are my beating heart.
