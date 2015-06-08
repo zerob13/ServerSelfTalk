@@ -33,3 +33,13 @@ Sat Jun 06 2015 08:26:01 GMT+0800 (CST).
 
 Sun Jun 07 2015 08:26:01 GMT+0800 (CST).
  The drums of conflict are my beating heart.
+
+Mon Jun 08 2015 08:26:01 GMT+0800 (CST).
+ A little retrospection shows that although many fine, useful software systems
+have been designed by committees and built as part of multipart projects,
+those software systems that have excited passionate fans are those that are
+the products of one or a few designing minds, great designers.  Consider Unix,
+APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast them
+with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
+		-- Fred Brooks
+
