@@ -54,3 +54,10 @@ Here lie the bones of Castlereagh;
 Stop, traveler, and piss.
 		-- Lord Byron, on Lord Castlereagh
 
+
+Wed Jun 10 2015 08:26:01 GMT+0800 (CST).
+ Copying machine, n.:
+	A device that shreds paper, flashes mysteriously coded messages,
+	and makes duplicates for everyone in the office who isn't
+	interested in reading them.
+
