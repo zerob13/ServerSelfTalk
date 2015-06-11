@@ -61,3 +61,11 @@ Wed Jun 10 2015 08:26:01 GMT+0800 (CST).
 	and makes duplicates for everyone in the office who isn't
 	interested in reading them.
 
+
+Thu Jun 11 2015 08:26:01 GMT+0800 (CST).
+ There once was a lady from Exeter,
+So pretty that men craned their necks at her.
+	One was even so brave
+	As to take out and wave
+The distinguishing mark of his sex at her.
+
