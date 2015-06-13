@@ -72,3 +72,14 @@ The distinguishing mark of his sex at her.
 
 Fri Jun 12 2015 08:26:01 GMT+0800 (CST).
  For over a thousand generations, the Jedi Knights were the guardians of peace and justice in the Old Republic.
+
+Sat Jun 13 2015 08:26:02 GMT+0800 (CST).
+ Q: I cant spell worth a dam.  I hope your going too tell me what to do?
+
+A: Don't worry about how your articles look.  Remember it's the message
+that counts, not the way it's presented.  Ignore the fact that sloppy
+spelling in a purely written forum sends out the same silent messages that
+soiled clothing would when addressing an audience.
+
+-- Brad Templeton, _Emily Postnews Answers Your Questions on Netiquette_
+
