@@ -83,3 +83,11 @@ soiled clothing would when addressing an audience.
 
 -- Brad Templeton, _Emily Postnews Answers Your Questions on Netiquette_
 
+
+Sun Jun 14 2015 08:26:01 GMT+0800 (CST).
+ Limericks are art forms complex,
+Their topics run chiefly to sex.
+	They usually have virgins,
+	And masculine urgin's,
+And other erotic effects.
+
