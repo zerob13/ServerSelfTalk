@@ -94,3 +94,6 @@ And other erotic effects.
 
 Mon Jun 15 2015 08:26:01 GMT+0800 (CST).
  Look, good against remotes is one thing, good against the living, that's something else.
+
+Tue Jun 16 2015 08:26:01 GMT+0800 (CST).
+ I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful Force controlling everything.
