@@ -97,3 +97,12 @@ Mon Jun 15 2015 08:26:01 GMT+0800 (CST).
 
 Tue Jun 16 2015 08:26:01 GMT+0800 (CST).
  I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful Force controlling everything.
+
+Wed Jun 17 2015 08:26:02 GMT+0800 (CST).
+ A gentleman, otherwise meek,
+Detested with passion the leek;
+	When offered one out
+	He dealt such a clout
+To the maid, she was down for a week.
+		-- Edward Gorey
+
