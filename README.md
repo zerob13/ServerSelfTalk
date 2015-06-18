@@ -106,3 +106,6 @@ Detested with passion the leek;
 To the maid, she was down for a week.
 		-- Edward Gorey
 
+
+Thu Jun 18 2015 08:26:01 GMT+0800 (CST).
+ It's not wise to upset a Wookiee.
