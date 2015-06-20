@@ -112,3 +112,6 @@ Thu Jun 18 2015 08:26:01 GMT+0800 (CST).
 
 Fri Jun 19 2015 08:26:01 GMT+0800 (CST).
  We live in a real world, Annie. Come back to it.
+
+Sat Jun 20 2015 08:26:01 GMT+0800 (CST).
+ The Force can have a strong influence on the weak-minded.
