@@ -115,3 +115,8 @@ Fri Jun 19 2015 08:26:01 GMT+0800 (CST).
 
 Sat Jun 20 2015 08:26:01 GMT+0800 (CST).
  The Force can have a strong influence on the weak-minded.
+
+Sun Jun 21 2015 08:26:01 GMT+0800 (CST).
+ When I left you, I was but the pupil.  Now, I am the master.
+- Darth Vader
+
