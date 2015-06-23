@@ -123,3 +123,7 @@ Sun Jun 21 2015 08:26:01 GMT+0800 (CST).
 
 Mon Jun 22 2015 08:26:02 GMT+0800 (CST).
  Oh my. Space travel sound rather perilous. I can assure you they will never get me on one of those dreadful Star Ships.
+
+Tue Jun 23 2015 08:26:02 GMT+0800 (CST).
+ In Lexington, Kentucky, it's illegal to carry an ice cream cone in your pocket.
+
